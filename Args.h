@@ -27,7 +27,7 @@ public:
     bool exact = false;
     bool divide_by_number = true;
     bool stoc2020 = false;
-    bool restricted = false;
+    bool restricted = true;
     ~Args();
     void usage(char *msg, int exit_status);
     void parse_args(int argc, char *argv[]);
