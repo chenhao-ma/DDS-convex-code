@@ -1,5 +1,7 @@
 # README
-This repo contains the technical report and source code for our SIGMOD submission, entitled ‘’A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery’’.
+This repo contains the technical report and source code for our SIGMOD submission, entitled ''A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery''.
+
+`response.pdf` provides more experimental results of this work.
 
 ## Source code info
 Programming Language: `C++`
